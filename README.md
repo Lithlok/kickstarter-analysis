@@ -4,3 +4,4 @@ By viewing the data as a whole, it can be seen that theater in the US and Music 
 I am attaching some files to show you what I'm referring to. Have a great launch!
 
 
+images/Outcomes_vs_Goals.png
